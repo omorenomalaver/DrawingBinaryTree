@@ -1,0 +1,8 @@
+C:\workshop\code\Visual Studio\2015\shapes\shapes\bin\Debug\shapes.exe.config
+C:\workshop\code\Visual Studio\2015\shapes\shapes\bin\Debug\shapes.exe
+C:\workshop\code\Visual Studio\2015\shapes\shapes\bin\Debug\shapes.pdb
+C:\workshop\code\Visual Studio\2015\shapes\shapes\obj\Debug\shapes.Form1.resources
+C:\workshop\code\Visual Studio\2015\shapes\shapes\obj\Debug\shapes.Properties.Resources.resources
+C:\workshop\code\Visual Studio\2015\shapes\shapes\obj\Debug\shapes.csproj.GenerateResource.Cache
+C:\workshop\code\Visual Studio\2015\shapes\shapes\obj\Debug\shapes.exe
+C:\workshop\code\Visual Studio\2015\shapes\shapes\obj\Debug\shapes.pdb
